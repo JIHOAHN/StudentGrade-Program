@@ -1,1 +1,3 @@
 # StudentGrade-Program
+
+This program was made on IntelliJ, by Jiho Ahn in Programming Language course at Cégep de la Gaspésie et des Îles campus de Montreal. First, the program asks user the number of students as an initial input. Then, for each student, program asks the user each student's name & grade. If the user selects Option 1, program shows student & grade. If the user selects Option 2, program shows the ranking of students. If the user selects Option 3, program shows the list of students who are failing (grade between 0 - 59). If the user selects Option 4, the user can edit grades (show list of names & grades / user selects student / ask for new grade / change the value eventually). If the user selects Option 5, the program terminates.
